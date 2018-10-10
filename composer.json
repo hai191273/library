@@ -1,0 +1,12 @@
+{
+    "name": "hai191273/library",
+    "description": "个人工具",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "HaiLibrary\\": "src/"
+        }
+    }
+}
