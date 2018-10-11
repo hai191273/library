@@ -3,7 +3,6 @@
     "description": "个人工具",
     "license": "MIT",
     "minimum-stability": "stable",
-    "require": {},
     "autoload": {
         "psr-4": {
             "HaiLibrary\\": "src/"
